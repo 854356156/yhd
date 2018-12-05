@@ -1,0 +1,458 @@
+{
+  "ref": true,
+  "data":{
+    "scenario":[{
+      "id": "001",
+      "title1": "品质进口",
+      "title2": "/ 给你完美生活",
+      "color": "#B77347",
+      "directoryImg": "//img14.360buyimg.com/img/jfs/t1/1076/13/11472/56073/5bcee65aEd7a8a7d5/0495991261171cf8.jpg",
+      "directorySingle": [{
+        "id":"101",
+        "name":"进口饼干"
+      },{
+        "id":"102",
+        "name":"进口牛奶"
+      },{
+        "id":"103",
+        "name":"进口水"
+      },{
+        "id":"104",
+        "name":"进口糖巧"
+      },{
+        "id":"105",
+        "name":"葡萄酒"
+      },{
+        "id":"106",
+        "name":"进口油"
+      }],
+      "snacks1": [{
+        "title1": "进口休闲零食",
+        "title2": "满99减50",
+        "enter": "点击进入",
+        "img": "//img13.360buyimg.com/img/jfs/t1/2296/6/11761/16939/5bd11901E7e8d7a9e/1a09d70d7e71a716.png",
+        "title1Color": "#793a11",
+        "title2Color": "#b77347",
+        "enterBorderColor": "rgba(192,132,92,0.5)",
+        "enterColor": "#c0845c"
+      }],
+      "snack1":[{
+        "title1": "进口饼干",
+        "title2": "满99减50",
+        "img": "//img30.360buyimg.com/img/jfs/t1/9437/35/2028/15954/5bd11a70Ec50934d5/ba447ee7683edaa7.jpg",
+        "title2Color": "#999"
+      },{
+        "title1": "进口牛奶",
+        "title2": "满3免1",
+        "img": "//img30.360buyimg.com/img/jfs/t1/9653/24/2037/15369/5bd11b11Ed63ea42b/8fe152fe87087978.jpg",
+        "title2Color": "#999"
+      }],
+      "snacks2": [{
+        "title1": "日本美妆",
+        "title2": "低至5折",
+        "enter": "点击进入",
+        "img": "//img30.360buyimg.com/img/jfs/t1/8133/15/2071/19521/5bd1189dEc0347047/e35ddd9869201555.png",
+        "title1Color": "#793a11",
+        "title2Color": "#b77347",
+        "enterBorderColor": "rgba(192,132,92,0.5)",
+        "enterColor": "#c0845c"
+      }],
+      "snack2":[{
+        "title1": "品质洋酒",
+        "title2": "满减8折",
+        "img": "//img30.360buyimg.com/img/jfs/t1/4474/24/11762/11212/5bd11b5bE814e6e3f/7c7c7ab4c574f8d8.jpg",
+        "title2Color": "#999"
+      },{
+        "title1": "进口米面",
+        "title2": "满99减50",
+        "img": "//img30.360buyimg.com/img/jfs/t1/3775/30/11644/20005/5bd119dcE186f24ec/44043f34092daf29.jpg",
+        "title2Color": "#999"
+      }],
+      "lunbo":[{
+        "img": "//img.yihaodianimg.com/front-homepage/index/images/paihangbang.png",
+        "title1": "进口食品热销榜",
+        "title2": "爆款热卖 实时更新",
+        "title2color": "#999",
+        "left":"0",
+        "lunboImg":[{
+          "img":["//img13.360buyimg.com/test/s60x60_jfs/t17656/361/1561863504/179962/c86a0d78/5acf21c5N59553f02.jpg",
+            "//img13.360buyimg.com/test/s60x60_jfs/t19096/5/1756915497/349724/a74de859/5ad6ef90N29fc81d6.jpg",
+            "//img11.360buyimg.com/test/s60x60_jfs/t8923/3/1976814558/351693/abce2347/59c24138N354212f7.jpg"
+          ]
+        },{
+          "img":["//img12.360buyimg.com/test/s60x60_jfs/t21391/77/1349470971/157798/bf6f083d/5b274788N0f7b4919.jpg",
+            "//img20.360buyimg.com/test/s60x60_jfs/t20584/357/1976792378/194734/4fcfe09f/5b401fecNa9501359.jpg",
+            "//img10.360buyimg.com/test/s60x60_jfs/t2260/167/748108848/117798/765bbef7/56287c3bN5de0c2a9.jpg"
+          ]
+        },{
+          "img": ["//img11.360buyimg.com/test/s60x60_jfs/t24493/37/1384312569/229933/ba4c5b27/5b5e6afcNe2d11bab.jpg",
+            "//img12.360buyimg.com/test/s60x60_jfs/t23071/162/1330480800/233893/6da76027/5b5a9ae1Nc1a8cf19.jpg",
+            "//img10.360buyimg.com/test/s60x60_jfs/t17941/226/2669737138/420972/35402273/5b062750N2e8adbff.jpg"
+          ]
+        }]
+      }]
+    },{
+      "id": "002",
+      "title1": "吃遍全球",
+      "title2": "/ 汇聚全球美味",
+      "color": "#E28820",
+      "directoryImg": "//img30.360buyimg.com/img/jfs/t1/2471/14/11542/55824/5bcfdb99Ed8029ac4/a6978694c891fe23.jpg",
+      "directorySingle": [{
+        "id":"201",
+        "name":"休闲食品"
+      },{
+        "id":"202",
+        "name":"饼干蛋糕"
+      },{
+        "id":"203",
+        "name":"糖果巧克力"
+      },{
+        "id":"204",
+        "name":"饮用水"
+      },{
+        "id":"205",
+        "name":"牛奶乳品"
+      },{
+        "id":"206",
+        "name":"蜜饯果干"
+      }],
+      "snacks1": [{
+        "title1": "国产零食",
+        "title2": "满199减120",
+        "enter": "点击进入",
+        "img": "//img12.360buyimg.com/img/jfs/t1/4233/20/11351/18972/5bcfd872Ea5751f55/44c3f76485cd6aec.png",
+        "title1Color": "#8e4e03",
+        "title2Color": "#e28820",
+        "enterBorderColor": "rgba(228,147,55,0.5) ",
+        "enterColor": "#e49337"
+      }],
+      "snack1":[{
+        "title1": "家乐氏麦片",
+        "title2": "￥69.9",
+        "img": "//img14.360buyimg.com/img/jfs/t25336/327/2245517987/213702/6586ae80/5bc69d2cN5a2fb9af.jpg",
+        "title2Color": "#666"
+      },{
+        "title1": "金龙鱼葵籽油",
+        "title2": "￥39.9",
+        "img": "//img13.360buyimg.com/img/jfs/t3166/299/1429417536/44627/c583f950/57cd2cdfN536d176e.jpg",
+        "title2Color": "#666"
+      }],
+      "snacks2": [{
+        "title1": "全球零食",
+        "title2": "甄选毫无",
+        "enter": "点击进入",
+        "img": "//img30.360buyimg.com/img/jfs/t1/3729/21/11141/20044/5bcfd94fE5bf9b661/421e1d1cc6638fe9.png",
+        "title1Color": "#8e4e03",
+        "title2Color": "#e28820",
+        "enterBorderColor": "rgba(228,147,55,0.5)",
+        "enterColor": "#e49337"
+      }],
+      "snack2":[{
+        "title1": "莫斯利安酸奶",
+        "title2": "￥86.9",
+        "img": "//img14.360buyimg.com/img/jfs/t11572/160/1771904886/97379/39e99197/5a08f573N8bf223fd.jpg",
+        "title2Color": "#66"
+      },{
+        "title1": "老干妈辣椒酱",
+        "title2": "￥8.9",
+        "img": "//img14.360buyimg.com/img/jfs/t3055/149/2017385213/125078/77c60ea4/57d9192fN92cd4b04.jpg",
+        "title2Color": "#666"
+      }],
+      "lunbo":[{
+        "img": "//img.yihaodianimg.com/front-homepage/index/images/paihangbang.png",
+        "title1": "进口食品热销榜",
+        "title2": "爆款热卖 实时更新",
+        "title2color": "#999",
+        "left": "0",
+        "lunboImg":[{
+          "img":["//img13.360buyimg.com/test/s60x60_jfs/t3484/155/885645398/583460/f2632d90/5816e47bN92cc0421.jpg",
+            "//img10.360buyimg.com/test/s60x60_jfs/t24292/90/819904961/260709/f0f14bd8/5b4413b9N01c40638.jpg",
+            "//img20.360buyimg.com/test/s60x60_jfs/t20521/343/573952625/132111/4628e4a1/5b113f75N09339612.jpg"
+          ]
+        },{
+          "img":["//img14.360buyimg.com/test/s60x60_jfs/t23464/85/841467916/273987/4a02a3ad/5b44150eN15f67ca3.jpg",
+            "//img12.360buyimg.com/test/s60x60_jfs/t23911/52/2219063883/376248/9c819c43/5b7676bdNcd0841b0.jpg",
+            "//img20.360buyimg.com/test/s60x60_jfs/t25258/110/2503553031/165431/4e284fa/5be80904Nb5f84c4a.jpg"
+          ]
+        },{
+          "img": ["//img20.360buyimg.com/test/s60x60_jfs/t20416/105/371011392/273288/113e54a3/5b0b702bNb5256ee2.jpg",
+            "//img10.360buyimg.com/test/s60x60_jfs/t3940/252/1200320664/512176/ab850a69/586b74afN5939fab5.jpg",
+            "//img20.360buyimg.com/test/s60x60_jfs/t20932/199/1923719245/315388/b25098d6/5b3efac4N9bd84940.jpg"
+          ]
+        }]
+
+      }]
+    },{
+      "id": "003",
+      "title1": "甄选新鲜",
+      "title2": "/ 每一口都是小幸福",
+      "color": "#65C73E",
+      "left": "0",
+      "directoryImg": "//img12.360buyimg.com/img/jfs/t26959/290/1054683504/57333/761a7098/5bc019b2Nb9d1871f.jpg",
+      "directorySingle": [{
+        "id":"301",
+        "name":"美味水果"
+      },{
+        "id":"302",
+        "name":"海鲜水产"
+      },{
+        "id":"303",
+        "name":"新鲜蔬菜"
+      },{
+        "id":"304",
+        "name":"猪牛羊肉"
+      },{
+        "id":"305",
+        "name":"冷冻食品"
+      },{
+        "id":"306",
+        "name":"乳品冷饮"
+      }],
+      "snacks1": [{
+        "title1": "活色生鲜接",
+        "title2": "59元3见",
+        "enter": "点击进入",
+        "img": "//img20.360buyimg.com/img/jfs/t1/3094/23/10851/19841/5bcd37ffE7723d8a5/f6d1dcb69fd939f8.png",
+        "title1Color": "#3c8020",
+        "title2Color": "#69b14b",
+        "enterBorderColor": "rgba(114,191,37,0.50)",
+        "enterColor": "#72BF25"
+      }],
+      "snack1":[{
+        "title1": "佳沛金奇异果",
+        "title2": "￥94.9",
+        "img": "//img11.360buyimg.com/img/jfs/t19198/258/1472320955/67363/36cff595/5acc2a01N54fa281e.jpg",
+        "title2Color": "#666"
+      },{
+        "title1": "阳澄湖大闸蟹",
+        "title2": "￥128.9",
+        "img": "//img14.360buyimg.com/img/jfs/t22735/122/2326168546/509650/1d8ebd3c/5b7ab7a8N86538da9.jpg",
+        "title2Color": "#666"
+      }],
+      "snacks2": [{
+        "title1": "品质牛排",
+        "title2": "部分领券再减",
+        "enter": "点击进入",
+        "img": "//img12.360buyimg.com/img/jfs/t1/5076/18/10934/19853/5bcd383fEe28106c8/de7cb35523823c8d.png",
+        "title1Color": "#3c8020",
+        "title2Color": "#69b14b",
+        "enterBorderColor": "rgba(114,191,37,0.50)",
+        "enterColor": "#72BF25"
+      }],
+      "snack2":[{
+        "title1": "恒都澳洲牛腩",
+        "title2": "￥25.9",
+        "img": "//img10.360buyimg.com/img/jfs/t21433/166/2476106893/97507/fa7120ee/5b57e0e8Ne3f4f846.jpg",
+        "title2Color": "#666"
+      },{
+        "title1": "天润浓缩酸奶",
+        "title2": "￥55",
+        "img": "//img12.360buyimg.com/img/jfs/t5956/164/1043761530/371945/f948620f/592e5f42N9745e192.jpg",
+        "title2Color": "#666"
+      }],
+      "lunbo":[{
+        "img": "//img.yihaodianimg.com/front-homepage/index/images/paihangbang.png",
+        "title1": "进口食品热销榜",
+        "title2": "爆款热卖 实时更新",
+        "title2color": "#999",
+        "left": "0",
+        "lunboImg":[{
+          "img":["//img14.360buyimg.com/test/s60x60_jfs/t27379/292/430188529/496955/b41b6c46/5badc651N1465e100.jpg",
+            "//img10.360buyimg.com/test/s60x60_jfs/t1/1096/20/14321/360091/5bdac49aE6440992f/b75ef2de5a43abf1.jpg",
+            "//img13.360buyimg.com/test/s60x60_jfs/t1/5694/17/14348/283755/5bdbc99dEc012c743/d71b92a4594c5f58.jpg"
+          ]
+        },{
+          "img":["//img11.360buyimg.com/test/s60x60_jfs/t27043/67/1795442787/164193/b204bb3b/5bee93a9N64e76316.jpg",
+            "//img20.360buyimg.com/test/s60x60_jfs/t7549/262/2764466495/1254270/719acbc5/59b5e581N7bb5d2f3.jpg",
+            "//img12.360buyimg.com/test/s60x60_jfs/t3277/131/5828641447/143673/c61d26ed/58830bd7N24fc73d2.jpg"
+          ]
+        },{
+          "img": ["//img12.360buyimg.com/test/s60x60_jfs/t22651/351/2308702280/547797/e0c3ca7d/5b7cb541Ndb4a9ebc.jpg",
+            "//img20.360buyimg.com/test/s60x60_jfs/t19249/188/2641588598/167683/d428e57c/5b03aed5N0de4a35b.jpg",
+            "//img11.360buyimg.com/test/s60x60_jfs/t24724/50/1322509664/355568/7503567c/5baeefd4N7392c333.jpg"
+          ]
+        }]
+      }]
+    },{
+      "id": "004",
+      "title1": "精选女人",
+      "title2": "/ 做完美的自己",
+      "color": "#E451A8",
+      "directoryImg": "//img20.360buyimg.com/img/jfs/t1/7128/29/2324/51674/5bd1ba0fE7aef0d0f/79f715d8d4d10331.jpg",
+      "directorySingle": [{
+        "id":"401",
+        "name":"女包"
+      },{
+        "id":"402",
+        "name":"女包"
+      },{
+        "id":"403",
+        "name":"女装"
+      },{
+        "id":"404",
+        "name":"卸妆洁面"
+      },{
+        "id":"405",
+        "name":"香气盎然"
+      },{
+        "id":"406",
+        "name":"绚丽彩妆"
+      }],
+      "snacks1": [{
+        "title1": "护肤品",
+        "title2": "爆款直降",
+        "enter": "点击进入",
+        "img": "//img13.360buyimg.com/img/jfs/t1/2935/32/11086/16061/5bd12ad5Ebd8cc3cb/b66273f2c1102936.png",
+        "title1Color": "#6a1752",
+        "title2Color": "#a858a0",
+        "enterBorderColor": "rgba(209,90,160,0.50)",
+        "enterColor": "#D15AA0"
+      }],
+      "snack1":[{
+        "title1": "迪奥粉丝唇蜜",
+        "title2": "￥300",
+        "img": "//img12.360buyimg.com/img/jfs/t17284/249/984667658/134522/a3a57ce0/5ab47a8bNf82b4521.jpg",
+        "title2Color": "#666"
+      },{
+        "title1": "美迪惠尔面膜",
+        "title2": "￥125",
+        "img": "//img10.360buyimg.com/img/jfs/t4162/157/459364506/229743/723acdcd/58b4fb2fN9db155ad.jpg",
+        "title2Color": "#666"
+      }],
+      "snacks2": [{
+        "title1": "彩妆",
+        "title2": "爆款直降",
+        "enter": "点击进入",
+        "img": "//img12.360buyimg.com/img/jfs/t1/1925/28/12020/19078/5bd12a87Ee2504a61/fb05c40b3d286cac.png",
+        "title1Color": "#6a1752",
+        "title2Color": "#a858a0",
+        "enterBorderColor": "rgba(209,90,160,0.50)",
+        "enterColor": "#D15AA0"
+      }],
+      "snack2":[{
+        "title1": "范思哲香水",
+        "title2": "￥39",
+        "img": "//img12.360buyimg.com/img/jfs/t17710/115/829347867/211266/623e1384/5aab5ed4Nb72829cc.jpg",
+        "title2Color": "#666"
+      },{
+        "title1": "雅诗兰黛眼霜",
+        "title2": "￥579",
+        "img": "//img14.360buyimg.com/img/jfs/t9172/137/1477928132/173142/818b28aa/59ba1769N9c9b7660.jpg",
+        "title2Color": "#666"
+      }],
+      "lunbo":[{
+        "img": "//img.yihaodianimg.com/front-homepage/index/images/paihangbang.png",
+        "title1": "进口食品热销榜",
+        "title2": "爆款热卖 实时更新",
+        "title2color": "#999",
+        "left": "0",
+        "lunboImg":[{
+          "img":["//img20.360buyimg.com/test/s60x60_jfs/t6655/330/664030973/141440/ac438867/5943914dNb557ef2a.jpg",
+            "//img30.360buyimg.com/test/s60x60_jfs/t26974/141/1288418057/177714/676088bf/5bc58037N55de052a.jpg",
+            "//img13.360buyimg.com/test/s60x60_jfs/t1/2939/21/6295/91912/5ba217b3Ed89da6bd/425a23a5a6bc13c5.jpg "
+          ]
+        },{
+          "img":["//img20.360buyimg.com/test/s60x60_jfs/t1/4378/20/8962/152483/5bab4ac1Ee32d653c/b29dde82d7b6418b.jpg",
+            "//img12.360buyimg.com/test/s60x60_jfs/t28873/304/88363955/638573/27619fae/5be70e4cNeb609ff4.jpg",
+            "//img12.360buyimg.com/test/s60x60_jfs/t1/7728/16/1549/146465/5bced10dEad2d5bbb/d3fbeefed642dac8.jpg"
+          ]
+        },{
+          "img": ["//img14.360buyimg.com/test/s60x60_jfs/t27529/106/1765720491/215745/7530cd00/5bed0cedNf55fd3ee.jpg",
+            "//img11.360buyimg.com/test/s60x60_jfs/t1/3596/37/9319/84848/5bac46fcEc848ff40/eb2b9da68027dd40.jpg",
+            "//img12.360buyimg.com/test/s60x60_jfs/t1/3191/31/8844/205285/5baafab5Ea643db20/29b7e28962c358ee.jpg"
+          ]
+        }]
+      }]
+    },{
+      "id": "005",
+      "title1": "科技质感",
+      "title2": "/ 营造美好生活",
+      "color": "#6177CB",
+      "directoryImg": "//img11.360buyimg.com/img/jfs/t25768/101/1993253362/56547/149b5283/5bc0490cNe3f585e2.jpg",
+      "directorySingle": [{
+        "id":"501",
+        "name":"热销手机"
+      },{
+        "id":"502",
+        "name":"轻薄电脑"
+      },{
+        "id":"503",
+        "name":"厨房电器"
+      },{
+        "id":"504",
+        "name":"生活电器"
+      },{
+        "id":"505",
+        "name":"娱乐影音"
+      },{
+        "id":"506",
+        "name":"办公设备"
+      }],
+      "snacks1": [{
+        "title1": "大牌让利",
+        "title2": "爆款直降",
+        "enter": "点击进入",
+        "img": "//img11.360buyimg.com/img/jfs/t1/1231/2/11319/19482/5bcee095E6fd29f13/0e6edd08149b14ce.png",
+        "title1Color": "#1e389a",
+        "title2Color": "#1e389a",
+        "enterBorderColor": "rgba(100,126,220,0.50)",
+        "enterColor": "#647EDC"
+      }],
+      "snack1":[{
+        "title1": "荣耀全屏手机",
+        "title2": "￥119",
+        "img": "//img12.360buyimg.com/img/jfs/t21415/332/642302956/189613/778f2021/5b13cd6cN8e12d4aa.jpg",
+        "title2Color": "#666"
+      },{
+        "title1": "小米平衡车",
+        "title2": "￥2069",
+        "img": "//img11.360buyimg.com/img/jfs/t1849/7/1613794318/117493/5966d8bd/566ac291N093baceb.jpg",
+        "title2Color": "#666"
+      }],
+      "snacks2": [{
+        "title1": "家电狂欢",
+        "title2": "满399减50",
+        "enter": "点击进入",
+        "img": "//img13.360buyimg.com/img/jfs/t1/9805/24/1597/16835/5bcee12fE7093f6e8/eea25436e35202d0.png",
+        "title1Color": "#1e389a",
+        "title2Color": "#1e389a",
+        "enterBorderColor": "rgba(100,126,220,0.50)",
+        "enterColor": "#647EDC"
+      }],
+      "snack2":[{
+        "title1": "博朗剃须刀",
+        "title2": "￥339",
+        "img": "//img30.360buyimg.com/img/jfs/t1/2707/20/11210/51017/5bcec48eE431b6b42/79f00deb5d824a9c.jpg",
+        "title2Color": "#666"
+      },{
+        "title1": "佳能单反套机",
+        "title2": "￥4999",
+        "img": "//img30.360buyimg.com/img/jfs/t4315/214/2656207991/223082/93dfd5aa/58d49036N367570f7.jpg",
+        "title2Color": "#666"
+      }],
+      "lunbo":[{
+        "img": "//img.yihaodianimg.com/front-homepage/index/images/paihangbang.png",
+        "title1": "进口食品热销榜",
+        "title2": "爆款热卖 实时更新",
+        "title2color": "#999",
+        "left": "0",
+        "lunboImg":[{
+          "img":["//img12.360buyimg.com/test/s60x60_jfs/t21835/133/1121054830/342317/466a8c22/5b207a76N4a718bb2.png",
+            "//img13.360buyimg.com/test/s60x60_jfs/t1/6065/1/6289/289096/5bdfa397Ec40fdfdb/091b425f7c6086da.jpg",
+            "//img12.360buyimg.com/test/s60x60_jfs/t25018/290/1912125500/87172/5514876b/5bbf01eeN831c2262.jpg"
+          ]
+        },{
+          "img":["//img13.360buyimg.com/test/s60x60_jfs/t7297/154/3413903491/65679/45ae4902/59e42830N9da56c41.jpg",
+            "//img13.360buyimg.com/test/s60x60_jfs/t22537/146/1691972730/217168/76bbe224/5b681abcNbaf7dc93.jpg",
+            "//img20.360buyimg.com/test/s60x60_jfs/t22270/320/2266072093/262567/ed5f9d6c/5b4ee1ddNfcc55b2f.jpg"
+          ]
+        },{
+          "img": ["//img30.360buyimg.com/test/s60x60_jfs/t1/5496/27/3434/342453/5b996f2eEd112e64d/4298abfd4f435c1f.jpg",
+            "//img10.360buyimg.com/test/s60x60_jfs/t27034/48/889830325/208490/a3be6016/5bbc6e01Ndf90871c.jpg",
+            "//img14.360buyimg.com/test/s60x60_jfs/t1/4609/37/3522/134740/5b997beeE4750d52c/c13c9b603ff5083d.jpg"
+          ]
+        }]
+      }]
+    }]
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "ref": true,
+  "data":{
+    "content":[{
+      "id":"001",
+      "title1": "超级品牌",
+      "title2": "/ 超级品牌/精品汇聚",
+      "abc":[{
+        "id":"001",
+        "pinpaiName":"雀巢",
+        "pre": "满199减100",
+        "enter": "进入 >",
+        "logo": "//img30.360buyimg.com/img/jfs/t1/888/14/12147/3559/5bd12908E337b964b/aca063d10671c595.jpg",
+        "bg": "//img10.360buyimg.com/img/jfs/t1/8178/28/2183/49252/5bd13a64E55783117/199e12de8f4eb8d0.jpg",
+        "img":[
+          "//img14.360buyimg.com/img/jfs/t25105/108/1848839110/219852/92a17844/5bbd823aN8298bc56.jpg",
+          "//img13.360buyimg.com/img/jfs/t24466/364/2305915215/208098/67e6d60/5b7b9167N1a48e42d.jpg",
+          "//img30.360buyimg.com/img/jfs/t1/2693/30/10167/257782/5bc991d6Ef67a32a8/6f16f87ef693927c.jpg"
+        ]
+      },{
+        "id":"002",
+        "pinpaiName":"苏泊尔",
+        "pre": "爆款直降",
+        "enter": "进入 >",
+        "logo": "//img11.360buyimg.com/img/jfs/t1/5837/10/11945/4136/5bd16837E5e80ae8c/f79e4fbd00775492.jpg",
+        "bg": "//img20.360buyimg.com/img/jfs/t1/4086/13/12005/35020/5bd167f0Ed05023b8/81c2464635e55f3a.jpg",
+        "img":[
+          "//img30.360buyimg.com/img/jfs/t25513/331/1190475969/284596/1e09cb06/5b8cfa00N4ba15ed7.jpg",
+          "//img12.360buyimg.com/img/jfs/t1/4765/5/11390/233982/5bcee69bEe1fc1e2a/c5d80804e4d5af1e.jpg",
+          "//img13.360buyimg.com/img/jfs/t26878/345/984590973/205921/7dc7241/5bbeac33N1a2d1922.jpg"
+        ]
+      }]
+    },{
+      "id":"002",
+      "title1": "超级品类",
+      "title2": "/ 超级品类/精品甄选",
+      "abc":[{
+        "id":"001",
+        "pinpaiName":"个人洗护",
+        "pre": "低至5折",
+        "enter": "进入 >",
+        "bg": "//img12.360buyimg.com/img/jfs/t29995/90/10401503/31239/96583268/5be53c4fN81bc172b.jpg",
+        "img":[
+          "//img13.360buyimg.com/img/jfs/t862/119/1208792198/134266/a19aeb51/557fe3a4Nb14baff4.jpg",
+          "//img11.360buyimg.com/img/jfs/t19873/31/690256027/241115/c6040b78/5b065359Na4354103.jpg",
+          "//img10.360buyimg.com/img/jfs/t16621/123/2338255595/397863/ddbaff59/5af01cd5Nfcdf95d9.jpg"
+        ]
+      },{
+        "id":"002",
+        "pinpaiName":"休闲零食",
+        "pre": "爆款直降",
+        "enter": "进入 >",
+        "bg": "//img20.360buyimg.com/img/jfs/t30010/168/9616148/41999/44f69fde/5be53f18N7499dbb5.jpg",
+        "img":[
+          "//img12.360buyimg.com/img/jfs/t23179/66/1295553220/182630/1b340095/5b594401N2546a27a.jpg",
+          "//img20.360buyimg.com/img/jfs/t20365/316/1216991915/173915/859d65d4/5b221170Nfc40038d.jpg",
+          "//img13.360buyimg.com/img/jfs/t12796/191/2022130677/320953/dcbb66da/5a307b9dN565e6bed.jpg"
+        ]
+      }]
+    }]
+  }
+}

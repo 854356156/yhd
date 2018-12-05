@@ -1,0 +1,24 @@
+{
+  "ref": true,
+  "data":{
+    "information":[{
+      "id": "001",
+      "name": "user",
+      "type": "text",
+      "textName": "用户名",
+      "placeholder": "请输入用户名"
+    },{
+      "id": "002",
+      "name": "pwd",
+      "type": "password",
+      "textName": "设置密码",
+      "placeholder": "请输入密码"
+    },{
+      "id": "003",
+      "name": "pwd1",
+      "type": "password",
+      "textName": "确认密码",
+      "placeholder": "再次输入密码"
+    }]
+  }
+}
